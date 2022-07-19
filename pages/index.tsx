@@ -13,7 +13,7 @@ const Home: NextPage = () => {
 
       
 
-      <Header/>
+      
     </div>
   )
 }
